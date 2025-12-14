@@ -1,0 +1,9 @@
+Hello how are you 
+I am good 
+Nachiket is my name 
+this is course 
+whatt are you learning ?
+Append operation taking place!
+first line
+second line 
+third line
